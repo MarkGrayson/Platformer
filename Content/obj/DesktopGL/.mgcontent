@@ -25,20 +25,6 @@
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sounds/PlayerJump.wma</File>
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sounds/PlayerKilled.wma</File>
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sounds/Powerup.wma</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterA/Idle.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterA/Run.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterB/Idle.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterB/Run.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterC/Idle.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterC/Run.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterD/Idle.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterD/Run.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Player/Celebrate.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Player/Die.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Player/Idle.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Player/Jump.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Player/Run.png</File>
-    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Gem.png</File>
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Tiles/BlockA0.png</File>
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Tiles/BlockA1.png</File>
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Tiles/BlockA2.png</File>
@@ -53,5 +39,16 @@
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Platformer/Background.png</File>
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Platformer/Game.ico</File>
     <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Platformer/GameThumbnail.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Gem.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterA/Deadpool  Idle.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterA/Deadpool Run.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterB/Wolverine idle.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterB/Wolverine run.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterC/Wolf Idle.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterC/Wolf Run.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterD/Tiger Idle.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/MonsterD/Tiger Run.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Player/Batman Idle.png</File>
+    <File>/Users/mpal7487/Projects/Platformer/Platformer/Content/Sprites/Player/Batman Run.png</File>
   </SourceFiles>
 </SourceFileCollection>
